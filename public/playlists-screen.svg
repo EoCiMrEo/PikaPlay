@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">PikaPlay playlists screen placeholder</title>
+  <desc id="desc">Placeholder screenshot for the playlists screen.</desc>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect x="80" y="72" width="1120" height="92" rx="18" fill="#1d4ed8"/>
+  <text x="128" y="130" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Playlists</text>
+  <g>
+    <rect x="128" y="216" width="304" height="320" rx="18" fill="#dcfce7"/>
+    <rect x="488" y="216" width="304" height="320" rx="18" fill="#fef3c7"/>
+    <rect x="848" y="216" width="304" height="320" rx="18" fill="#ede9fe"/>
+  </g>
+  <text x="280" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#166534">Playlist 1</text>
+  <text x="640" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#92400e">Playlist 2</text>
+  <text x="1000" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#5b21b6">Playlist 3</text>
+  <text x="640" y="632" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Replace with playlist screenshot</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">PikaPlay app preview placeholder</title>
+  <desc id="desc">Placeholder image for the PikaPlay desktop app preview.</desc>
+  <rect width="1280" height="720" fill="#111827"/>
+  <rect x="64" y="56" width="1152" height="608" rx="18" fill="#f8fafc"/>
+  <rect x="64" y="56" width="1152" height="76" rx="18" fill="#0f172a"/>
+  <circle cx="112" cy="94" r="12" fill="#ef4444"/>
+  <circle cx="150" cy="94" r="12" fill="#f59e0b"/>
+  <circle cx="188" cy="94" r="12" fill="#22c55e"/>
+  <text x="236" y="104" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff">PikaPlay</text>
+  <rect x="104" y="172" width="356" height="420" rx="14" fill="#e0f2fe"/>
+  <rect x="500" y="172" width="676" height="84" rx="14" fill="#e5e7eb"/>
+  <rect x="500" y="288" width="676" height="84" rx="14" fill="#e5e7eb"/>
+  <rect x="500" y="404" width="676" height="84" rx="14" fill="#e5e7eb"/>
+  <rect x="500" y="520" width="388" height="72" rx="14" fill="#14b8a6"/>
+  <text x="156" y="388" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#0f172a">App Preview</text>
+  <text x="548" y="226" font-family="Arial, sans-serif" font-size="28" fill="#334155">Search, queue, and organize media</text>
+  <text x="548" y="342" font-family="Arial, sans-serif" font-size="28" fill="#334155">Track downloads in one workspace</text>
+  <text x="548" y="458" font-family="Arial, sans-serif" font-size="28" fill="#334155">Build playlists for later playback</text>
+  <text x="548" y="566" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Replace with final screenshot</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">PikaPlay search screen placeholder</title>
+  <desc id="desc">Placeholder screenshot for the search screen.</desc>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect x="80" y="72" width="1120" height="92" rx="18" fill="#0f766e"/>
+  <text x="128" y="130" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Search</text>
+  <rect x="128" y="212" width="1024" height="64" rx="14" fill="#e2e8f0"/>
+  <text x="168" y="254" font-family="Arial, sans-serif" font-size="24" fill="#64748b">Find media to queue</text>
+  <g fill="#dbeafe">
+    <rect x="128" y="332" width="296" height="232" rx="16"/>
+    <rect x="492" y="332" width="296" height="232" rx="16"/>
+    <rect x="856" y="332" width="296" height="232" rx="16"/>
+  </g>
+  <text x="640" y="632" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Replace with search screenshot</text>
+</svg>

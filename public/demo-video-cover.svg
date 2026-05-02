@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">PikaPlay demo video placeholder</title>
+  <desc id="desc">Placeholder cover image for a YouTube demo video.</desc>
+  <rect width="1280" height="720" fill="#0f172a"/>
+  <rect x="88" y="72" width="1104" height="576" rx="28" fill="#1f2937"/>
+  <circle cx="640" cy="360" r="104" fill="#ef4444"/>
+  <polygon points="612,302 612,418 716,360" fill="#ffffff"/>
+  <text x="640" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#ffffff">PikaPlay Alpha Demo</text>
+  <text x="640" y="568" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#cbd5e1">Replace this cover and YouTube URL</text>
+</svg>
